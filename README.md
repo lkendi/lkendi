@@ -1,8 +1,8 @@
-![Hello GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlc3ZxYmoyMmZqbHRuMzBubjJsZzN0bXZiOW42MXhvbG5sOW96NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif)
-
 # 👋 Hi there! I’m Lucy 😇
 
-A Software Engineer who also dabbles in Data Analytics and No-code/Low-Code Development. Whatever the case, tackling challenges, learning new things and creating solutions that make work easier is what I find most enjoyable and fulfilling.
+![Hello GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlc3ZxYmoyMmZqbHRuMzBubjJsZzN0bXZiOW42MXhvbG5sOW96NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif)
+
+I'm a Software Engineer who also dabbles in Data Analytics and No-code/Low-Code Development. Whatever the case, tackling challenges, learning new things and creating solutions that make work easier is what I find most enjoyable and fulfilling.
 
 # 🚀 What I Do
 ## Software Engineering
