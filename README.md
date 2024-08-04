@@ -9,7 +9,7 @@ I'm a Software Engineer who also dabbles in Data Analytics and No-code/Low-Code 
 I'm passionate about building user-centric, efficient and scalable web applications using clean, efficient code. My expertise lies in:
 
 - Languages: Python, JavaScript, C, C#
-- Frameworks: Flask, ASP.NET
+- Frameworks: Flask
 - Tools: Git
 
 ## Data Analytics
