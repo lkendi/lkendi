@@ -14,9 +14,10 @@
 
 | Streak Stats | Top Languages |
 |--------------|---------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=lkendi&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lkendi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+|![](https://github-readme-streak-stats.herokuapp.com/?user=lkendi&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lkendi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 [![](https://visitcount.itsvg.in/api?id=name&icon=10&color=2)](https://visitcount.itsvg.in)
+
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/lkendi/lkendi/outputa/github-contribution-grid-snake-dark.svg)
 
