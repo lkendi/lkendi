@@ -14,7 +14,7 @@
 
 | Streak Stats | Top Languages |
 |--------------|---------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=lkendi&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lkendi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=lkendi&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lkendi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 [![](https://visitcount.itsvg.in/api?id=name&icon=10&color=2)](https://visitcount.itsvg.in)
 
