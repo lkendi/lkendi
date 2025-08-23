@@ -72,7 +72,7 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 ├── 📁 HOBBIES
 │   ├── Embedded Systems / IoT
 │   └── Learning
-│       ├── Random Tech Topics & New Tech Concepts
+│       ├── New Tech Concepts
 │       ├── Playing Instruments
 │       └── Literally Anything Interesting
 
