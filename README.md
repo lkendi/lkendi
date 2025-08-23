@@ -2,49 +2,48 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;git+commit+-m+'More+info+below';" alt="Typing SVG" />
 </p>
 
-<!-- Side-by-side layout using width/align (GitHub-safe) -->
+
 <table>
 <tr>
-  <td width="50%" align="left">
+  <td width="100%" align="left">
 
 <pre>
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWMMM
-MMWk;,;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,:OMMM
-MMWd...'.;:,:;........................................xWMM
-MMWd........'........................................'xWMM
-MMWx'................................................,kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''',::;'''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''',:lxd:'''''''''''''''''',kWMM
-MMWx,''''''''''''';cc,'''''',ldxd:'',cc,''''''''''''',kWMM
-MMWx,''''''''''',cddl,''''',lxxd:'.';ldoc,''''''''''',kWMM
-MMWx,''''''''',codl;'.'''',cxdo:'.''',:odo:,''''''''',kWMM
-MMWx,''''''''';oxdc,''''',cxdc,''''''',cxxl,''''''''',kWMM
-MMWx,'''''''''',:odo:,'''cdxc'.''''',:odo:''''''''''',kWMM
-MMWx,'''''''''''',col,''cdxc'.'''''';oo:''''''''''''',kWMM
-MMWx,'''''''''''''',''':dxc,.'''''''',''''''''''''''',kWMM
-MMWx,''''''''''''''''',:c:''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWMM
-MMMXkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOXMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWMM
+MWk;,;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,:OMM
+MWd...'.;:,:;........................................xWM
+MWd........'........................................'xWM
+MWx'................................................,kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''',::;'''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''',:lxd:'''''''''''''''''',kWM
+MWx,''''''''''''';cc,'''''',ldxd:'',cc,''''''''''''',kWM
+MWx,''''''''''',cddl,''''',lxxd:'.';ldoc,''''''''''',kWM
+MWx,''''''''',codl;'.'''',cxdo:'.''',:odo:,''''''''',kWM
+MWx,''''''''';oxdc,''''',cxdc,''''''',cxxl,''''''''',kWM
+MWx,'''''''''',:odo:,'''cdxc'.''''',:odo:''''''''''',kWM
+MWx,'''''''''''',col,''cdxc'.'''''';oo:''''''''''''',kWM
+MWx,'''''''''''''',''':dxc,.'''''''',''''''''''''''',kWM
+MWx,''''''''''''''''',:c:''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
+MMXkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOXMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 </pre>
-
   </td>
-  <td width="50%" align="left">
+  <td width="100%" align="left">
 
 <pre>
 /home/name/
