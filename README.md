@@ -46,7 +46,7 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
   <td width="100%" align="left">
 
 <pre>
-/home/name/
+/home/me/
 ├── ABOUT.TXT
 │   └── Role: 💻Software Developer
 
