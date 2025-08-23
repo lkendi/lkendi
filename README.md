@@ -55,7 +55,7 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 │   │   ├── Python
 │   │   ├── C# (.NET)
 │   │   ├── HTML & CSS
-│   │   └── Kotlin (Jetpack Compose)
+│   │   └── Kotlin & Jetpack Compose
 
 ├── 📁 TOOLS
 │   ├── DevOps
