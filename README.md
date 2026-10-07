@@ -1,12 +1,6 @@
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif"
-    alt="Hello"
-    width="700"
-  />
-</p>
+# Hello 👋
 
-I'm Lucy Kendi. A Software Engineer building web and Android applications, AI automations, and system integrations. I focus on reliable, maintainable software across backend, cloud, mobile, and IoT systems.
+I'm a Software Engineer building web and Android applications, AI automations, and system integrations. I focus on reliable, maintainable software across backend, cloud, mobile, and IoT systems.
 
 ## Core Experience
 
