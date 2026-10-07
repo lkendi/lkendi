@@ -1,86 +1,31 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;git+commit+-m+'More+info+below';" alt="Typing SVG" />
-</p>
+<img
+  src="https://i.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif"
+  alt="Hello"
+  width="100%"
+/>
+
+I'm Lucy Kendi. A Software Engineer building web and Android applications, AI automations, and system integrations. I focus on reliable, maintainable software across backend, cloud, mobile, and IoT systems.
+
+## Core Experience
+
+Experience across diverse domains, including Fintech, Healthtech, and Energy, spanning API design, relational data modelling, Android development, AI-driven automation, QA and automated testing, CI/CD, cloud integration, observability, secure software practices, device communication, and interoperable systems.
 
 
-<table>
-<tr>
-  <td width="100%" align="left">
+## Selected Tools
 
-<pre>
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWMM
-MWk;,;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,:OMM
-MWd...'.;:,:;........................................xWM
-MWd........'........................................'xWM
-MWx'................................................,kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''',::;'''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''',:lxd:'''''''''''''''''',kWM
-MWx,''''''''''''';cc,'''''',ldxd:'',cc,''''''''''''',kWM
-MWx,''''''''''',cddl,''''',lxxd:'.';ldoc,''''''''''',kWM
-MWx,''''''''',codl;'.'''',cxdo:'.''',:odo:,''''''''',kWM
-MWx,''''''''';oxdc,''''',cxdc,''''''',cxxl,''''''''',kWM
-MWx,'''''''''',:odo:,'''cdxc'.''''',:odo:''''''''''',kWM
-MWx,'''''''''''',col,''cdxc'.'''''';oo:''''''''''''',kWM
-MWx,'''''''''''''',''':dxc,.'''''''',''''''''''''''',kWM
-MWx,''''''''''''''''',:c:''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MWx,'''''''''''''''''''''''''''''''''''''''''''''''',kWM
-MMXkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOXMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-</pre>
-  </td>
-  <td width="100%" align="left">
-
-<pre>
-/home/me/
-├── ABOUT.TXT
-│   └── Role: 💻Software Developer
-
-├── 📁 LANGUAGES
-│   ├── Programming
-│   │   ├── Python
-│   │   ├── C# (.NET)
-│   │   ├── HTML & CSS
-│   │   └── Kotlin & Jetpack Compose
-
-├── 📁 TOOLS
-│   ├── DevOps
-│   │   ├── Git
-│   │   ├── Jenkins
-│   │   └── Docker
-│   ├── Design
-│   │   └── Figma
-│   └── Automation
-│       ├── Airtable
-│       ├── Zapier
-│       └── Make
-
-├── 📁 HOBBIES
-│   ├── Embedded Systems / IoT
-│   └── Learning
-│       ├── New Tech Concepts
-│       ├── Playing Instruments
-│       └── Literally Anything Interesting
-
-├── 📁 CONTACT
-│   ├── Email: lkendi003@gmail.com
-│   └── GitHub: lkendi
-</pre>
-
-  </td>
-</tr>
-</table>
+![Java](https://img.shields.io/badge/Java-2f343c?style=flat)
+![Elixir](https://img.shields.io/badge/Elixir-2f343c?style=flat)
+![C#](https://img.shields.io/badge/C%23-2f343c?style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-2f343c?style=flat)
+![Android](https://img.shields.io/badge/Android-2f343c?style=flat)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2f343c?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-2f343c?style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-2f343c?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f343c?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-2f343c?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2f343c?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2f343c?style=flat)
+![Jenkins](https://img.shields.io/badge/Jenkins-2f343c?style=flat)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2f343c?style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-2f343c?style=flat)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-2f343c?style=flat)
