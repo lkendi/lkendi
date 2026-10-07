@@ -1,8 +1,10 @@
-<img
-  src="https://i.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif"
-  alt="Hello"
-  width="100%"
-/>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif"
+    alt="Hello"
+    width="100%"
+  />
+</p>
 
 I'm Lucy Kendi. A Software Engineer building web and Android applications, AI automations, and system integrations. I focus on reliable, maintainable software across backend, cloud, mobile, and IoT systems.
 
