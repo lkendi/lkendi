@@ -1,6 +1,6 @@
 # Hello 👋
 
-I build software — web, Android, AI automation, and occasionally IoT.
+I build software. Web, Android, AI automation, and occasionally IoT.
 
 Currently building full-stack applications with Elixir and Phoenix LiveView.
 
